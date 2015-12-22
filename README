@@ -1,0 +1,8 @@
+An external class has been implemented in this project. This has to be imported by setting classpath. I have used eclipse to import the external class. 
+The external class has been imported from the project JLayer. The "Player" class used from the project can be found online. 
+
+SET THE CLASSPATH BEFORE RUNNING THE PROJECT.
+
+The music files are to be placed in the mplayer folder.
+The java files implemented is in the mplayer/src/mplayer folder.
+Eclipse has been used to make this project.
